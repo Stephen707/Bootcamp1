@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Stephen707/SimpleTodo/blob/master/SimpleTodo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Stephen707/Bootcampandroid/blob/master/SimpleTodo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
